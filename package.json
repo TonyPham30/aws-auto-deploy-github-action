@@ -1,0 +1,19 @@
+{
+  "name": "github-ci-cd-typescript",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@types/aws-lambda": "^8.10.102",
+    "@types/lodash": "^4.14.184",
+    "@types/node": "^18.7.13",
+    "@vercel/ncc": "^0.34.0",
+    "lodash": "^4.17.21"
+  }
+}
